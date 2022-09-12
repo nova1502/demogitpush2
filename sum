@@ -1,0 +1,6 @@
+a=53
+b=45
+
+sum = `expr $a + $b
+
+echo "s$Sum is  : $sum"

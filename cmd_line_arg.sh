@@ -1,0 +1,10 @@
+echo "First arg : $1"
+echo "Second arg : $2"
+echo "Third arg : $3"
+echo "Forth arg : $4"
+echo "five arg : $5"
+echo "no.of arg : $#"
+echo "List of arg : $*"
+echo "List of args : $@"
+echo "Name of the script : $0 "
+fi

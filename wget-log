@@ -1,0 +1,14 @@
+--2022-08-09 10:31:13--  https://pkg.jenkins.io/redhat-stable/jenkins.repo
+Resolving pkg.jenkins.io (pkg.jenkins.io)... 2a04:4e42:5a::645, 199.232.106.133
+Connecting to pkg.jenkins.io (pkg.jenkins.io)|2a04:4e42:5a::645|:443... failed: Connection timed out.
+Connecting to pkg.jenkins.io (pkg.jenkins.io)|199.232.106.133|:443... connected.
+WARNING: cannot verify pkg.jenkins.io's certificate, issued by ‘/C=US/O=Let's Encrypt/CN=R3’:
+  Issued certificate has expired.
+HTTP request sent, awaiting response... 200 OK
+Length: 85
+Saving to: ‘/etc/yum.repos.d/jenkins.repo’
+
+     0K                                                       100% 1.61M=0s
+
+2022-08-09 10:33:22 (1.61 MB/s) - ‘/etc/yum.repos.d/jenkins.repo’ saved [85/85]
+
